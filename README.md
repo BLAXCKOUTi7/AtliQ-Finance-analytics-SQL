@@ -4,9 +4,13 @@ A collection of SQL scripts for generating key financial reports and sales insig
 📁 Project Files
 File	Purpose
 CROMA_monthly_total_sales.sql	Calculates monthly gross sales totals for specific customers by joining sales and pricing data.
+
 customer_quarterly_sales_breakdown.sql	Provides detailed quarterly sales analysis showing products, variants, quantities, and gross totals for a customer.
+
 yearly_sales_report.sql	Aggregates yearly gross sales for individual customers, grouped by fiscal year.
+
 market_badge_based_on_sold_quantity.sql	Computes total sold quantity for specific markets (e.g., India) within a given fiscal year.
+
 🛠️ SQL Techniques Used
 Joins (INNER JOIN across multiple tables)
 
